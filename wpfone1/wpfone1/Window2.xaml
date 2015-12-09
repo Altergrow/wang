@@ -1,0 +1,14 @@
+﻿<Window x:Class="wpfone1.Window2"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Window2" Height="300" Width="300">
+    <Grid Height="279" Width="299">
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="13,91,0,0" Name="textBox1" VerticalAlignment="Top" Width="44" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="63,91,0,0" Name="textBox2" VerticalAlignment="Top" Width="38" />
+        <Label Content="=" Height="28" HorizontalAlignment="Left" Margin="167,91,0,0" Name="label2" VerticalAlignment="Top" />
+        <Button Content="开始" Height="35" HorizontalAlignment="Left" Margin="12,191,0,0" Name="button1" VerticalAlignment="Top" Width="75" Click="button1_Click" />
+        <Button Content="不做了" Height="35" HorizontalAlignment="Left" Margin="150,191,0,0" Name="button2" VerticalAlignment="Top" Width="75" Click="button2_Click" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="192,91,0,0" Name="textBox4" VerticalAlignment="Top" Width="56" KeyDown="textBox4_KeyDown" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="114,91,0,0" Name="textBox3" VerticalAlignment="Top" Width="47" />
+    </Grid>
+</Window>

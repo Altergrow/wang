@@ -1,0 +1,19 @@
+﻿<Window x:Class="wpfone1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="25,55,0,0" Name="textBox1" VerticalAlignment="Top" Width="62" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="187,55,0,0" Name="textBox2" VerticalAlignment="Top" Width="51" />
+        <Label Content="=" Height="28" HorizontalAlignment="Left" Margin="266,55,0,0" Name="label2" VerticalAlignment="Top" />
+        <Button Content="写入" Height="41" HorizontalAlignment="Left" Margin="12,193,0,0" Name="button1" VerticalAlignment="Top" Width="75" Click="button1_Click" />
+        <Button Content="清空题库" Height="41" HorizontalAlignment="Left" Margin="150,193,0,0" Name="button2" VerticalAlignment="Top" Width="75" Click="button2_Click" />
+        <Button Content="开始做题" Height="41" HorizontalAlignment="Left" Margin="312,193,0,0" Name="button3" VerticalAlignment="Top" Width="75" Click="button3_Click" />
+        <ComboBox Height="23" HorizontalAlignment="Left" Margin="102,55,0,0" Name="comboBox1" VerticalAlignment="Top" Width="61">
+            <ComboBoxItem Content="+" />
+            <ComboBoxItem Content="-" />
+            <ComboBoxItem Content="*" />
+            <ComboBoxItem Content="/" />
+        </ComboBox>
+    </Grid>
+</Window>

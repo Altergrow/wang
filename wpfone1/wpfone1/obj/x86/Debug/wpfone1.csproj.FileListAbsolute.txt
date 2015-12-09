@@ -1,0 +1,15 @@
+C:\Users\samsung1\Desktop\wpfone1\wpfone1\bin\Debug\wpfone1.exe
+C:\Users\samsung1\Desktop\wpfone1\wpfone1\bin\Debug\wpfone1.pdb
+C:\Users\samsung1\Desktop\wpfone1\wpfone1\obj\x86\Debug\MainWindow.baml
+C:\Users\samsung1\Desktop\wpfone1\wpfone1\obj\x86\Debug\MainWindow.g.cs
+C:\Users\samsung1\Desktop\wpfone1\wpfone1\obj\x86\Debug\App.g.cs
+C:\Users\samsung1\Desktop\wpfone1\wpfone1\obj\x86\Debug\wpfone1_MarkupCompile.cache
+C:\Users\samsung1\Desktop\wpfone1\wpfone1\obj\x86\Debug\wpfone1.g.resources
+C:\Users\samsung1\Desktop\wpfone1\wpfone1\obj\x86\Debug\wpfone1.Properties.Resources.resources
+C:\Users\samsung1\Desktop\wpfone1\wpfone1\obj\x86\Debug\wpfone1.csproj.GenerateResource.Cache
+C:\Users\samsung1\Desktop\wpfone1\wpfone1\obj\x86\Debug\wpfone1.exe
+C:\Users\samsung1\Desktop\wpfone1\wpfone1\obj\x86\Debug\wpfone1.pdb
+C:\Users\samsung1\Desktop\wpfone1\wpfone1\obj\x86\Debug\Window2.baml
+C:\Users\samsung1\Desktop\wpfone1\wpfone1\obj\x86\Debug\Window2.g.cs
+C:\Users\samsung1\Desktop\wpfone1\wpfone1\obj\x86\Debug\Window3.baml
+C:\Users\samsung1\Desktop\wpfone1\wpfone1\obj\x86\Debug\Window3.g.cs
