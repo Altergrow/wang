@@ -1,0 +1,18 @@
+C:\Users\Administrator\Desktop\SQL\SQL\obj\x86\Debug\SQL.Form1.resources
+C:\Users\Administrator\Desktop\SQL\SQL\obj\x86\Debug\SQL.Properties.Resources.resources
+C:\Users\Administrator\Desktop\SQL\SQL\obj\x86\Debug\SQL.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\SQL\SQL\bin\Debug\SQL.exe
+C:\Users\Administrator\Desktop\SQL\SQL\bin\Debug\SQL.pdb
+C:\Users\Administrator\Desktop\SQL\SQL\obj\x86\Debug\SQL.exe
+C:\Users\Administrator\Desktop\SQL\SQL\obj\x86\Debug\SQL.pdb
+C:\Users\Administrator\Desktop\SQL\SQL\obj\x86\Debug\SQL.Form2.resources
+C:\Users\Administrator\Desktop\SQL\SQL\obj\x86\Debug\SQL.Form3.resources
+C:\Users\Administrator\Desktop\SQL - 副本\SQL\obj\x86\Debug\SQL.exe
+C:\Users\Administrator\Desktop\SQL - 副本\SQL\obj\x86\Debug\SQL.pdb
+C:\Users\Administrator\Desktop\SQL - 副本\SQL\bin\Debug\SQL.exe
+C:\Users\Administrator\Desktop\SQL - 副本\SQL\bin\Debug\SQL.pdb
+C:\Users\Administrator\Desktop\SQL - 副本\SQL\obj\x86\Debug\SQL.Form1.resources
+C:\Users\Administrator\Desktop\SQL - 副本\SQL\obj\x86\Debug\SQL.Form2.resources
+C:\Users\Administrator\Desktop\SQL - 副本\SQL\obj\x86\Debug\SQL.Form3.resources
+C:\Users\Administrator\Desktop\SQL - 副本\SQL\obj\x86\Debug\SQL.Properties.Resources.resources
+C:\Users\Administrator\Desktop\SQL - 副本\SQL\obj\x86\Debug\SQL.csproj.GenerateResource.Cache
